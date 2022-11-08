@@ -12,7 +12,7 @@ This is due to paragraph 4(a) of the CC0:
 > surrendered, licensed or otherwise affected by this document.
 
 Such a clause may strengthen the case of a party that releases software under
-the CC0 that infringes a software patent that they hold, and attepts to sue
+the CC0 that infringes a software patent that they hold, and attempts to sue
 those who use the software they release for patent infringement.
 
 Software patents are deeply harmful to free and open-source software, and such
